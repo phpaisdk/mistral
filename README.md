@@ -172,10 +172,13 @@ $result = Generate::text('Hello')
 composer test
 ```
 
-## Links
+## Documentation
 
-- [Core Package](https://github.com/phpaisdk/core)
-- [OpenAI-Compatible Package](https://github.com/phpaisdk/openai-compatible)
-- [Mistral API documentation](https://docs.mistral.ai/api)
-- [Mistral Python SDK Embeddings Resource](https://github.com/mistral/mistral-python/blob/main/src/mistral/resources/embeddings.py)
-- [Project Documentation](https://github.com/phpaisdk)
+- [PHP AI SDK documentation](https://phpaisdk.com/docs)
+- [Mistral documentation](https://phpaisdk.com/docs/mistral)
+
+## Community
+
+- [Contributing](https://github.com/phpaisdk/.github/blob/main/CONTRIBUTING.md)
+- [Support](https://github.com/phpaisdk/.github/blob/main/SUPPORT.md)
+- For private security reports, email [security@phpaisdk.com](mailto:security@phpaisdk.com).
